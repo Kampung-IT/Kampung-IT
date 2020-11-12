@@ -1,8 +1,3 @@
-<style>
-img {
-border-radius:100%;
-}
-
 <h2 align="center">
    KᗩᗰᑭᑌᑎG IT
 </h2 align="center">
