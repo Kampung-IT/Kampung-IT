@@ -5,7 +5,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=monokai)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&layout=compact" alt="Top language">
-
+</p>
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Kampung-IT)<br />
 * [<img alt="Dunia-Kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/s.jani.10297)<br />
