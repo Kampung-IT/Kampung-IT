@@ -2,7 +2,7 @@
    Kampung IT
 </h4 aling="center">
  
-![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=lightblue)
+![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=lightred)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&layout=compact" alt="Top language">
 
