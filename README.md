@@ -1,6 +1,6 @@
 <h2 align="center">
    Kampung IT
-</h2 aling="center">
+</h2 align="center">
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=monokai)
 <p align="center">
