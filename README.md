@@ -15,5 +15,5 @@
 * [<img alt="Kampung-IT's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/kampung_it)<br />
 
 <div align="center">
-<img src="https://github.com/Kampung-IT/Kampung-IT/blob/main/IMG-20201112-WA0041.jpg" width="150px" height="150px border-radius="100%">
+<img src="https://github.com/Kampung-IT/Kampung-IT/blob/main/IMG-20201112-WA0041.jpg" width="150px" height="150px border-radius="50%">
 </div>
