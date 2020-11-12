@@ -14,4 +14,4 @@
 * [<img alt="Kampung-IT's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://api.whatsapp.com/send/?phone=%2B6289517379735&text&app_absent=0)<br />
 * [<img alt="Kampung-IT's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/kampung_it)<br />
 
-![template_s](https://github.com/Dunia-Kode/Dunia-Kode/blob/main/IMG-20201022-WA0008.jpg)
+![template_s](https://github.com/Kampung-IT/Kampung-IT/blob/main/IMG-20201112-WA0041.jpg)
