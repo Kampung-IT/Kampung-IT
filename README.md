@@ -8,7 +8,7 @@
 </p align="center">
 <p align="center">
   <img title="Followers" src="https://img.shields.io/github/followers/Kampung-IT?color=red&style=flat-square">
-</p align="center">
+</p align="center"><br>
 ### MY SOCIAL MEDIA
 * [<img alt="Kampung-IT's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Kampung-IT)<br />
 * [<img alt="Kampung-IT's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/s.jani.10297)<br />
