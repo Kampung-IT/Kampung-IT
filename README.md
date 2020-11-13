@@ -4,7 +4,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=monokai)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&layout=compact" alt="Top language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&layout=compact" alt="Top language"> 
 
 <p align="center">
   <img title="Followers" src="https://img.shields.io/github/followers/Kampung-IT?color=red&style=flat-square">
