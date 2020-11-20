@@ -23,10 +23,6 @@
 * [<img alt="Kampung-IT's Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UCdRmW2VQpeMdDx4jzoJPK0Q)<br />
 
 <div align="center">
-<img src="https://b.top4top.io/p_1777edzgv0.png" width="150px" height="150px">
+<img src="https://b.top4top.io/p_1777edzgv0.png" width="150px" height="150px"><br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id="Kampung-IT" alt="visitor badge"/>
 </div>
-
-
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id="Kampung-IT" alt="visitor badge"/>       
-</p>
