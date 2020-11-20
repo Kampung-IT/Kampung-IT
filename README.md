@@ -2,8 +2,10 @@
    KᗩᗰᑭᑌᑎG IT
 </h2 align="center">
 
-
-<a href="https://Kampung-IT.github.io/">
+<h3 align="center">
+   Please Support Me
+</h3 align="center">
+<a align="center" href="https://Kampung-IT.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&theme=monokai" />
 </a>
 
