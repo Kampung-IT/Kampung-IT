@@ -21,9 +21,11 @@
 * [<img alt="Kampung-IT's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://api.whatsapp.com/send/?phone=%2B6289517379735&text&app_absent=0)<br />
 * [<img alt="Kampung-IT's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/kampung_it)<br />
 * [<img alt="Kampung-IT's Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UCdRmW2VQpeMdDx4jzoJPK0Q)<br />
+
 <div align="center">
 <img src="https://b.top4top.io/p_1777edzgv0.png" width="150px" height="150px">
 </div>
+
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id="Kampung-IT" alt="visitor badge"/>       
