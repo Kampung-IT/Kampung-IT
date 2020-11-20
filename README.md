@@ -7,7 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&theme=monokai" />
 </a>
 
-<a href="https://github.com/sponsors/Kampung-IT" target="_blank"><img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
+<a href="https://github.com/sponsors/Kampung-IT" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
+</a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=monokai)
 
