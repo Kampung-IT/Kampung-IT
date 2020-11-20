@@ -2,9 +2,12 @@
    KᗩᗰᑭᑌᑎG IT
 </h2 align="center">
 
+
+<a href="https://Kampung-IT.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&theme=monokai" />
+</a>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=monokai)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kampung-IT&layout=compact" alt="Top language"> 
 
 ### SOCIAL MEDIA
 * [<img alt="Kampung-IT's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Kampung-IT)<br />
@@ -16,6 +19,5 @@
 </div>
 
 <p  align="center">
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id="Kampung-IT" alt="visitor badge"/>       
 </p>
