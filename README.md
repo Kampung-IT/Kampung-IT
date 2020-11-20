@@ -24,5 +24,4 @@
 
 <div align="center">
 <img src="https://b.top4top.io/p_1777edzgv0.png" width="150px" height="150px"><br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id="Kampung-IT" alt="visitor badge"/>
 </div>
