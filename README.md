@@ -16,7 +16,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kampung-IT&show_icons=true&theme=monokai)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kampung-IT)
 
 ### SOCIAL MEDIA
 * [<img alt="Kampung-IT's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Kampung-IT)<br />
@@ -27,3 +26,7 @@
 <div align="center">
 <img src="https://b.top4top.io/p_1777edzgv0.png" width="150px" height="150px"><br>
 </div>
+
+<p align="center">
+<a href="https://github.com/Kampung-IT/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kampung-IT?color=blue&style=flat-square"></a>
+</p>
